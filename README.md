@@ -55,6 +55,8 @@ QA-RA/
 3. Abre la escena principal `Assets/Scenes/SampleScene.unity`.
 4. Presiona Play para ejecutar la escena.
 
+> Si quieren usar la escena armada, no necesitan abrir todo el proyecto desde la carpeta del repositorio. Basta con importar el paquete de Unity que está en la raíz del proyecto y se llama `QA-RA.unitypackage` desde Unity, usando la opción Import Package > Custom Package.
+
 ## Dependencias relevantes
 
 El proyecto incluye paquetes como:
